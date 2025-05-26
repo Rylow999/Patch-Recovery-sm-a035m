@@ -9,7 +9,7 @@ on:
         default: 'https://transfer.sh/(RECOMMENDED)'
 
 env:
-  RECOVERY_URL: https://drive.google.com/file/d/1HrsyuCK63u5kqRh9xPG1zm3HwNjLVAmn/view?usp=drivesdk
+  RECOVERY_URL: ttps://oshi.at/Rpjg
 
 jobs:
   build:
